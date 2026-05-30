@@ -62,7 +62,7 @@ This project helped in understanding:
 
 ## Author
 
-Rithika Poreddy  
+P.Rithika Reddy  
 B.Tech CSE (AI & ML)  
 Vignan University
 
