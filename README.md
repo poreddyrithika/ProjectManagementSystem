@@ -35,7 +35,7 @@ The Project Management System is a desktop application developed using Java Swin
 ## Project Structure
 
 ```text
-ProjectManagementSystem.java
+project_management_system.java
 projects.txt
 ```
 
